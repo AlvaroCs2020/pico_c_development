@@ -1,0 +1,2 @@
+/home/alvaro/.pico-sdk/toolchain/13_2_Rel1/bin/arm-none-eabi-ar qc libpico_arm.a CMakeFiles/pico_arm.dir/code/ArmHandler.c.obj
+/home/alvaro/.pico-sdk/toolchain/13_2_Rel1/bin/arm-none-eabi-ranlib libpico_arm.a
